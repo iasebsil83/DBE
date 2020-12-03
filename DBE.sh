@@ -5,6 +5,11 @@
 #     This program extracts data from a database and
 # place it into a file.
 #
+# Requirements :
+#  - sqlite3
+#  - npm
+#  - csvtojson (installed via npm)
+#
 # Versions :
 #
 # 24/11/2020 > [0.0.1] :
